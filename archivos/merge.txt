@@ -1,1 +1,13 @@
+¿Local?:
+
 Alejandro Pérez Barrera, 18 años, espero no tirarme la materia porque soy becado, y tal vez aprender algo de programación.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+¿Lo edité desde internet?:
+
+"10. Desde el repositorio en la web de GitHub, navegaremos a la carpeta archivos dentro de nuestro repositorio.
+Luego, seleccionaremos Add file → Create new file para crear un archivo llamado merge.txt, en el cual expli-
+caremos qué ocurrió con la carpeta archivos. ¿Por qué ahora puedes crear un commit y subir la carpeta?"
+
+No entiendo nada 😭😭. Estoy lo más de perdido. Me imagino que puedo "crear un commit y subir la carpeta" porque
+tengo acceso a la web y tengo conexión a internet.🌎🌎🌐❓❓❓❓
